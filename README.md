@@ -1,5 +1,5 @@
-# E-commerce
-Este documento apresenta um programa de terminal que permite cadastrar produtos, vendedores e registrar vendas por meio de um menu de opções.
+# E-commerce 🏷️
+Projeto feito para a aula de Fundamentos da Engenharia de Software, com foco em simular um sistema de e-commerce. Este documento apresenta um programa de terminal que permite cadastrar produtos, vendedores e registrar vendas por meio de um menu de opções.
 
 Funcionalidades do menu:
 
