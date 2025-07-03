@@ -10,7 +10,7 @@ public class ItemVenda {
         this.produto = produto;
         this.quantidadeVendida = quantidadeVendida;
         this.precoUnitario = produto.getPrecoVenda();
-        this.precoTotalItem = this.precoUnitario + this.quantidadeVendida;
+        this.precoTotalItem = this.precoUnitario * this.quantidadeVendida;
     }
 
     public Produto getProduto() {

@@ -9,7 +9,7 @@ public class Produto {
     public Produto(int codigo, String nome, int quantidadeEstoque, double precoVenda) {
         this.codigo = codigo;
         this.nome = nome;
-        this.quantidadeEstoque = (int) precoVenda;
+        this.quantidadeEstoque = quantidadeEstoque;
         this.precoVenda = precoVenda;
     }
 
@@ -47,6 +47,6 @@ public class Produto {
 
     @Override
     public String toString() {
-        return "Informações do produto: codigo=" + codigo + ", nome=" + nome + ", estoque=" + quantidadeEstoque + ", preco=R$" + precoVenda + "]";
+        return "Informações do produto: codigo=" + codigo + ", nome=" + nome + ", estoque=" + quantidadeEstoque + ", preco=R$" + precoVenda ;
     }
 }

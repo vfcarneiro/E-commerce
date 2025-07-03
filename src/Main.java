@@ -49,10 +49,10 @@ public class Main {
                     gestor.realizarVenda(numVend, scanner);
                     break;
                 case 0:
-                    System.out.println("Saindo do sistema...");
+                    System.out.println("Até mais");
                     break;
                 default:
-                    System.out.println("Opção inválida!");
+                    System.out.println("Opção inválida");
                     break;
             }
         }

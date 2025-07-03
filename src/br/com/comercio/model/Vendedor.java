@@ -39,7 +39,7 @@ package br.com.comercio.model;
 
         @Override
         public String toString() {
-            return "Informações do vendedr: numero=" + numero + ", nome=" + nome + ", salarioFixo=R$" + salarioFixo + ", comissoes=R$" + comissoes + "]";
+            return "Informações do vendedr: numero=" + numero + ", nome=" + nome + ", salarioFixo=R$" + salarioFixo + ", comissoes=R$" + comissoes ;
         }
     }
 
