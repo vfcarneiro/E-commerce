@@ -1,3 +1,4 @@
+# E-commerce
 Este documento apresenta um programa de terminal que permite cadastrar produtos, vendedores e registrar vendas por meio de um menu de opções.
 
 Funcionalidades do menu:
