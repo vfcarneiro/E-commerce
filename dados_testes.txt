@@ -1,0 +1,14 @@
+Teste de produtos
+Entradas:
+
+Mouse Gamer, 80, 99.90
+Monitor 24 polegadas, 30, 850.00
+Headset Pro, 45, 250.50
+SSD 1TB, 60, 400.00
+Webcam Full HD, 70, 180.
+
+Teste de vendedores
+Entradas:
+Ana Paula, 2200.00
+Bruno Costa, 2200.00
+Fernanda Lima, 2500.00
